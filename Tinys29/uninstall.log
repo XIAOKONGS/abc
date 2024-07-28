@@ -1,0 +1,4 @@
+行 18: 控件 StatusBar1 的类 MSComctlLib.StatusBar 不是一个已加载的控件类。
+行 37: 控件 Toolbar1 的类 MSComctlLib.Toolbar 不是一个已加载的控件类。
+行 77: 控件 lstview 的类 MSComctlLib.ListView 不是一个已加载的控件类。
+行 114: 控件 ImageList1 的类 MSComctlLib.ImageList 不是一个已加载的控件类。

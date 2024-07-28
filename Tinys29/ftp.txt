@@ -1,0 +1,6 @@
+open 192.168.3.100 21
+9999
+9999
+delete 0x00.jpg
+send 0x00.jpg
+bye
